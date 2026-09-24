@@ -8,3 +8,5 @@
 8. saltimbanqui-https://dle.rae.es/saltimbanqui
 9. retrospectivo-https://dle.rae.es/retrospectivo?m=wotd2
 10. orejón-https://dle.rae.es/orej%C3%B3n?m=form
+11. anatomía https://dle.rae.es/anatom%C3%ADa
+12. monogamia https://dle.rae.es/monogamia?m=form
