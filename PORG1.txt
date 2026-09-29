@@ -10,3 +10,16 @@
 10. orejón-https://dle.rae.es/orej%C3%B3n?m=form
 11. anatomía https://dle.rae.es/anatom%C3%ADa
 12. monogamia https://dle.rae.es/monogamia?m=form
+
+
+13. lampara  https://dle.rae.es/l%C3%A1mpara
+14. armario https://dle.rae.es/armario?m=form
+15. matematica https://dle.rae.es/matem%C3%A1tico?m=form
+16. ordenador https://dle.rae.es/ordenador?m=form17
+17. gafas https://dle.rae.es/gafas?m=form
+18.boligrafo https://dle.rae.es/boligrafo?m=form
+19. pantalla https://dle.rae.es/pantalla?m=form
+20. silla  https://dle.rae.es/silla?m=form
+21. zapatilla  https://dle.rae.es/zapatilla?m=form
+22. puerta  https://dle.rae.es/puerta?m=form
+
